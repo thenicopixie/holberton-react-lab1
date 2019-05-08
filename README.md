@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+***Instructions for the homework is here***:
+https://github.com/p0x6/holberton-react-lab1/tree/master/docs/INSTRUCTIONS.md 
+
 ## Available Scripts
 
 In the project directory, you can run:
