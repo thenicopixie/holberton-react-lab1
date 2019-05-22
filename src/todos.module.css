@@ -1,0 +1,26 @@
+.row {
+    width: 50%;
+    display: flex;
+    flex-flow: row;
+    margin: auto;
+}
+.allTodosBox {
+    padding: 1%;
+    margin: auto;
+    width: 50%;
+}
+.todoBox {
+    background-color: #ececec;
+    margin: 1%;
+    line-height: 3;
+    padding-left: 1%;
+    transition: 1s;
+}
+.todoBox:hover {
+    background-color: gainsboro;
+    transition: 1s;
+}
+ 
+.todoBox b.cancelX:hover {
+      color: red;
+}
